@@ -1,7 +1,7 @@
 
 # Shopping Cart
 
-Site utilizando html, css e javascript, com requisição de api com o mercado livre, podendo ver produtos, pesquisar e adicionar ao carrinho.
+Site utilizando html, css e javascript, com requisição de api com o mercado livre, podendo ver produtos e adicionar ao carrinho.
 ## Demonstração
 
 
