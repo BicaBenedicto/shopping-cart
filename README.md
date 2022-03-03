@@ -4,6 +4,7 @@
 Site utilizando html, css e javascript, com requisição de api com o mercado livre, podendo ver produtos e adicionar ao carrinho.
 ## Demonstração
 
+![Desktop](./shopping-cart.PNG)
 
 ## Stack utilizada
 
